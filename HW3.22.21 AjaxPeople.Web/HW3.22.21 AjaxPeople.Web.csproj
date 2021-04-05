@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>HW3._22._21_AjaxPeople.Web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HW3.22.21 AjaxPeople.Data\HW3.22.21 AjaxPeople.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3.22.21 AjaxPeople.Web", "HW3.22.21 AjaxPeople.Web\HW3.22.21 AjaxPeople.Web.csproj", "{678D9862-86B6-49BE-9D22-68FEADC6B607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW3.22.21 AjaxPeople.Data", "HW3.22.21 AjaxPeople.Data\HW3.22.21 AjaxPeople.Data.csproj", "{56633242-F269-4F40-8863-CC053867E43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678D9862-86B6-49BE-9D22-68FEADC6B607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D9862-86B6-49BE-9D22-68FEADC6B607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D9862-86B6-49BE-9D22-68FEADC6B607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D9862-86B6-49BE-9D22-68FEADC6B607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56633242-F269-4F40-8863-CC053867E43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56633242-F269-4F40-8863-CC053867E43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56633242-F269-4F40-8863-CC053867E43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56633242-F269-4F40-8863-CC053867E43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA9E9DDB-9B74-4975-B709-941A68400E1E}
+	EndGlobalSection
+EndGlobal
